@@ -1,6 +1,16 @@
 # Learning-Python
 A repo full of my python beginner programs!
 
+Data Analytics Project:
+
+App Data Analytics: finding profitable app profiles
+
+
+
+
+
+Beginner programs:
+
 FirstOne = first programs, very basic functions used such as len, print
 
 KnockKnock = define my own function, and mess about with converting given text to lower/upper cases
