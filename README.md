@@ -5,7 +5,7 @@ A repo full of my python beginner programs!
 
 App Data Analytics: finding profitable app profiles
 
-## **Beginner programs:**
+## **Beginner Programs:**
 
 FirstOne = first programs, very basic functions used such as len, print
 
