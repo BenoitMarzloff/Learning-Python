@@ -1,14 +1,15 @@
 # Learning-Python
 A repo full of my python beginner programs!
 
-Data Analytics Project:
+Advanced Projects:
+
 
 App Data Analytics: finding profitable app profiles
 
 
 
 
-
+///////////
 Beginner programs:
 
 FirstOne = first programs, very basic functions used such as len, print
